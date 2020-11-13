@@ -11,6 +11,7 @@ def get_coordinates_from_num(num, input_file_name):
                 return [float(items[1]), float(items[2])]
 
 
+# 只考虑平移的最小二乘法
 def get_translation_lsq_matrix(input_file_name, reference_file_name):
     A_list = []
     Y_list = []
@@ -62,6 +63,7 @@ def get_affine_lsq_matrix(input_file_name, reference_file_name):
     return matrix
 
 
+# 直接求仿射变换矩阵
 def get_affine_matrix(input_file_name, reference_file_name):
     A_list = []
     Y_list = []
@@ -75,9 +77,6 @@ def get_affine_matrix(input_file_name, reference_file_name):
                     Y_list.append(float(items[2]))
                     A_list.append([origin_point[0], origin_point[1], 0, 0, 1, 0])
                     A_list.append([0, 0, origin_point[0], origin_point[1], 0, 1])
-                    # Y = np.append(Y, [float(items[1]), float(items[2])])
-                    # A = np.append(A, [[origin_point[0], origin_point[1], 0, 0, 1, 0],
-                    #                   [0, 0, origin_point[0], origin_point[1], 0, 1]], axis=1)
     A = np.array(A_list)
     Y = np.array(Y_list)
     destination = np.array([[Y[0], Y[2], Y[4]],
@@ -95,6 +94,7 @@ def main():
     output_file_name = "data/destination.txt"
     reference_file_name = "data/reference.txt"
 
+    # 这里可以选取采用不同方法求取变换矩阵
     matrix = get_translation_lsq_matrix(input_file_name, reference_file_name)
 
     with open(input_file_name, "r") as input_file, open(output_file_name, "w") as output_file:
