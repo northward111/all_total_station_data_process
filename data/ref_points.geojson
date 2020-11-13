@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "ref_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "ref_18", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.355473455149493, 30.527459972961982, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_38", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.356068110971293, 30.527596072076449, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_51", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.355493123239597, 30.527508412422961, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_6", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.356023784793294, 30.527649277440361, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_45", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.355893035936901, 30.527507033964181, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_60", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.355341706462994, 30.527598357257919, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_24", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.355202131941795, 30.52760260262205, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ref_9", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.356205438214801, 30.527605483017059, 0.0 ] } }
+]
+}

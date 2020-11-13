@@ -1,17 +1,19 @@
 from osgeo import ogr
 from osgeo import osr
+import datetime
 
 
-def create_shp(coord_file_name):
+def create_shp(coord_file_name, layer_name):
     driver = ogr.GetDriverByName("ESRI Shapefile")
-    data_source = driver.CreateDataSource("lane_point_84.shp")
+    data_source = driver.CreateDataSource(
+        "data/output/{}_{}.shp".format(layer_name, datetime.datetime.now().strftime('%Y%m%d%H%M%S')))
 
     srs = osr.SpatialReference()
     srs.ImportFromEPSG(4326)
 
-    layer = data_source.CreateLayer("lane_point_84", srs, ogr.wkbPoint)
+    layer = data_source.CreateLayer(layer_name, srs, ogr.wkbPoint)
 
-    field_name = ogr.FieldDefn("PointNum", ogr.OFTString)
+    field_name = ogr.FieldDefn("name", ogr.OFTString)
     field_name.SetWidth(24)
     layer.CreateField(field_name)
 
@@ -31,7 +33,7 @@ def create_shp(coord_file_name):
             if len(items) > 2:
                 print("Point Num {}".format(items[0]))
                 feature = ogr.Feature(layer.GetLayerDefn())
-                feature.SetField("PointNum", items[0])
+                feature.SetField("name", items[0])
                 feature.SetField("x", items[1])
                 feature.SetField("y", items[2])
                 wkt = 'POINT({} {})'.format(items[1], items[2])
@@ -43,4 +45,4 @@ def create_shp(coord_file_name):
 
 
 if __name__ == '__main__':
-    create_shp("coords.txt")
+    create_shp("data/coords.txt", "lane_point_84")

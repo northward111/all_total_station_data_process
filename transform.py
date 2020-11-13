@@ -16,4 +16,4 @@ def transform(input_file_name, output_file_name):
 
 
 if __name__ == '__main__':
-    transform("input.txt", "output.txt")
+    transform("data/input.txt", "data/output.txt")

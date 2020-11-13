@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="84" id="84">
+	<SimpleField name="x" type="float"></SimpleField>
+	<SimpleField name="y" type="float"></SimpleField>
+</Schema>
+<Folder><name>84</name>
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356017950802595</SimpleData>
+		<SimpleData name="y">30.527644910169627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356017950803,30.5276449101696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356067922370315</SimpleData>
+		<SimpleData name="y">30.527644638315454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35606792237,30.5276446383155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356144859711094</SimpleData>
+		<SimpleData name="y">30.527644301757842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356144859711,30.5276443017578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356166786922557</SimpleData>
+		<SimpleData name="y">30.527631198628221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356166786923,30.5276311986282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356194396466080</SimpleData>
+		<SimpleData name="y">30.527613380442759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356194396466,30.5276133804428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356188850812302</SimpleData>
+		<SimpleData name="y">30.527595580730448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356188850812,30.5275955807304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356115651220364</SimpleData>
+		<SimpleData name="y">30.527560827584182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35611565122,30.5275608275842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356066662586045</SimpleData>
+		<SimpleData name="y">30.527536327331937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356066662586,30.5275363273319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355967251406881</SimpleData>
+		<SimpleData name="y">30.527485544691555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355967251407,30.5274855446916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355906828925328</SimpleData>
+		<SimpleData name="y">30.527454337534024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355906828925,30.527454337534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355817076064568</SimpleData>
+		<SimpleData name="y">30.527454799149936</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355817076065,30.5274547991499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355691938187789</SimpleData>
+		<SimpleData name="y">30.527455258083485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355691938188,30.5274552580835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355583450815899</SimpleData>
+		<SimpleData name="y">30.527455707538731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355583450816,30.5274557075387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355477640763468</SimpleData>
+		<SimpleData name="y">30.527456014296462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355477640763,30.5274560142965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355440192080991</SimpleData>
+		<SimpleData name="y">30.527475888714502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355440192081,30.5274758887145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355365051344663</SimpleData>
+		<SimpleData name="y">30.527514627920915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355365051345,30.5275146279209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355307829115858</SimpleData>
+		<SimpleData name="y">30.527543901145254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355307829116,30.5275439011453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355267746227824</SimpleData>
+		<SimpleData name="y">30.527564332928634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355267746228,30.5275643329286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355190042676028</SimpleData>
+		<SimpleData name="y">30.527603223345135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355190042676,30.5276032233451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355186827383378</SimpleData>
+		<SimpleData name="y">30.527613019015273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355186827383,30.5276130190153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355202399843634</SimpleData>
+		<SimpleData name="y">30.527623133296622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355202399844,30.5276231332966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355221780554032</SimpleData>
+		<SimpleData name="y">30.527634644343266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355221780554,30.5276346443433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355244353583075</SimpleData>
+		<SimpleData name="y">30.527647229106009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355244353583,30.527647229106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355310403247032</SimpleData>
+		<SimpleData name="y">30.527647121169547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355310403247,30.5276471211695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355364918064055</SimpleData>
+		<SimpleData name="y">30.527646927397559</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355364918064,30.5276469273976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355494765556060</SimpleData>
+		<SimpleData name="y">30.527646383765813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355494765556,30.5276463837658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355642765574089</SimpleData>
+		<SimpleData name="y">30.527646259508263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355642765574,30.5276462595083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355738740254992</SimpleData>
+		<SimpleData name="y">30.527646105751369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355738740255,30.5276461057514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355847154505184</SimpleData>
+		<SimpleData name="y">30.527645548123203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355847154505,30.5276455481232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355930489538366</SimpleData>
+		<SimpleData name="y">30.527645221279979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355930489538,30.52764522128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355980461271258</SimpleData>
+		<SimpleData name="y">30.527644994559843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355980461271,30.5276449945598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356052544412535</SimpleData>
+		<SimpleData name="y">30.527596449390082</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356052544413,30.5275964493901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356064149854362</SimpleData>
+		<SimpleData name="y">30.527595894504984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356064149854,30.527595894505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356065904208435</SimpleData>
+		<SimpleData name="y">30.527594094693210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356065904208,30.5275940946932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356064593117537</SimpleData>
+		<SimpleData name="y">30.527591725966467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356064593118,30.5275917259665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356056595087068</SimpleData>
+		<SimpleData name="y">30.527587174587108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356056595087,30.5275871745871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356006338917567</SimpleData>
+		<SimpleData name="y">30.527560819617140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356006338918,30.5275608196171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355969038649889</SimpleData>
+		<SimpleData name="y">30.527541356737583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35596903865,30.5275413567376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355934160919631</SimpleData>
+		<SimpleData name="y">30.527523312419351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35593416092,30.5275233124194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355907315962185</SimpleData>
+		<SimpleData name="y">30.527510775525929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355907315962,30.5275107755259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355888116998642</SimpleData>
+		<SimpleData name="y">30.527503404351627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355888116999,30.5275034043516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355867162402490</SimpleData>
+		<SimpleData name="y">30.527503199999533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355867162402,30.5275032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355800540390632</SimpleData>
+		<SimpleData name="y">30.527503481164246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355800540391,30.5275034811642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355691990055263</SimpleData>
+		<SimpleData name="y">30.527503822639790</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355691990055,30.5275038226398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355608572178411</SimpleData>
+		<SimpleData name="y">30.527504257798217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355608572178,30.5275042577982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355521236365718</SimpleData>
+		<SimpleData name="y">30.527504649472522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355521236366,30.5275046494725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355499605551827</SimpleData>
+		<SimpleData name="y">30.527504735552473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355499605552,30.5275047355525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355479405770453</SimpleData>
+		<SimpleData name="y">30.527511519725142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35547940577,30.5275115197251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355454207168819</SimpleData>
+		<SimpleData name="y">30.527521880506537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355454207169,30.5275218805065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355429442985198</SimpleData>
+		<SimpleData name="y">30.527534224539647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355429442985,30.5275342245396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355409008029525</SimpleData>
+		<SimpleData name="y">30.527545104508814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.35540900803,30.5275451045088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355383782145296</SimpleData>
+		<SimpleData name="y">30.527559425214051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355383782145,30.5275594252141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355362831028629</SimpleData>
+		<SimpleData name="y">30.527571632551620</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355362831029,30.5275716325516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355333790618872</SimpleData>
+		<SimpleData name="y">30.527588561465159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355333790619,30.5275885614652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355321595005492</SimpleData>
+		<SimpleData name="y">30.527595874016264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355321595005,30.5275958740163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355320372952349</SimpleData>
+		<SimpleData name="y">30.527597924931761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355320372952,30.5275979249318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355322191726501</SimpleData>
+		<SimpleData name="y">30.527599507525164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355322191727,30.5275995075252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355337967018599</SimpleData>
+		<SimpleData name="y">30.527599500585016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355337967019,30.527599500585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355371392559164</SimpleData>
+		<SimpleData name="y">30.527599328241966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355371392559,30.527599328242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355408944822301</SimpleData>
+		<SimpleData name="y">30.527599306997310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355408944822,30.5275993069973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355484038107733</SimpleData>
+		<SimpleData name="y">30.527599039001444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355484038108,30.5275990390014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355588368184186</SimpleData>
+		<SimpleData name="y">30.527598582933496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355588368184,30.5275985829335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355696636641866</SimpleData>
+		<SimpleData name="y">30.527598061909472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355696636642,30.5275980619095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355775939411600</SimpleData>
+		<SimpleData name="y">30.527597782253764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355775939412,30.5275977822538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355842748940802</SimpleData>
+		<SimpleData name="y">30.527597473528626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355842748941,30.5275974735286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355930302985385</SimpleData>
+		<SimpleData name="y">30.527596900638471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355930302985,30.5275969006385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.355996924994130</SimpleData>
+		<SimpleData name="y">30.527596601366724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.355996924994,30.5275966013667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<ExtendedData><SchemaData schemaUrl="#84">
+		<SimpleData name="x">114.356034163813362</SimpleData>
+		<SimpleData name="y">30.527596346273356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114.356034163813,30.5275963462734</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
